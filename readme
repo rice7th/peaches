@@ -1,2 +1,9 @@
 # Peaches
 Proof-of-concept 2D lib based on SDFs
+
+# Building
+Run with
+
+```
+cargo run --release
+```
